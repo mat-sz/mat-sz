@@ -8,7 +8,14 @@
 
 I'm a full stack web developer and a UI/UX designer. I currently work with C# (.NET Core) and React in a Fortune 500 company - for personal projects I prefer node.js over .NET Core.
 
-#### My work:
+#### My work
+
+<details>
+  <summary>🌐 Web applications</summary>
+
+- filedrop ([frontend](https://github.com/mat-sz/filedrop-web), [backend](https://github.com/mat-sz/filedrop-ws)) - User-friendly WebRTC file transfer.
+- catchmail ([frontend](https://github.com/mat-sz/catchmail-web), [backend](https://github.com/mat-sz/catchmail-ws)) - Self-hosted e-mail debugging tool.
+</details>
 
 <details>
   <summary>✉️ TypeScript e-mail ecosystem</summary>
@@ -46,9 +53,9 @@ I'm a full stack web developer and a UI/UX designer. I currently work with C# (.
 <details>
   <summary>🚀 Experiments</summary>
 
+- [pongloader](https://github.com/mat-sz/pongloader) - Pong clone in less than 512 bytes (fits in a boot sector; x86 Assembly).
 - [apple2](https://github.com/mat-sz/apple2)
 - [6502](https://github.com/mat-sz/6502)
 - [infiniplayer](https://github.com/mat-sz/infiniplayer)
-- [pongloader](https://github.com/mat-sz/pongloader)
 
 </details>
