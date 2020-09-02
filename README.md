@@ -11,7 +11,7 @@ I'm a full stack web developer and a UI/UX designer. I currently work with C# (.
 #### My work:
 
 <details>
-  <summary><strong>Currently working on:</strong> TypeScript e-mail ecosystem.</summary>
+  <summary>✉️ TypeScript e-mail ecosystem</summary>
 
 - [letterparser](https://github.com/mat-sz/letterparser) - RFC 5322 compliant e-mail parser.
 - [letterbuilder](https://github.com/mat-sz/letterbuilder) - RFC 5322 compliant e-mail builder.
@@ -19,4 +19,36 @@ I'm a full stack web developer and a UI/UX designer. I currently work with C# (.
 - [react-letter](https://github.com/mat-sz/react-letter) - React e-mail presentation component (with an allowlist for tags, attributes and CSS properties supported by Gmail).
 - [vue-letter](https://github.com/mat-sz/vue-letter) - Vue e-mail presentation component (based on react-letter)
 - [microMTA](https://github.com/mat-sz/microMTA) - Inbound SMTP server.
+</details>
+
+<details>
+  <summary>📚 TypeScript libraries</summary>
+
+- [tabcast](https://github.com/mat-sz/tabcast)
+- [upload](https://github.com/mat-sz/upload)
+- [imtool](https://github.com/mat-sz/imtool)
+- [fitool](https://github.com/mat-sz/fitool)
+- [typesocket](https://github.com/mat-sz/typesocket)
+- [media-api](https://github.com/mat-sz/media-api)
+
+</details>
+
+<details>
+  <summary>🕹️ Games</summary>
+
+- [flight](https://github.com/mat-sz/flight)
+- [inkball](https://github.com/mat-sz/inkball)
+- [tetris](https://github.com/mat-sz/tetris)
+- [flappy-bird](https://github.com/mat-sz/flappy-bird)
+
+</details>
+
+<details>
+  <summary>🚀 Experiments</summary>
+
+- [apple2](https://github.com/mat-sz/apple2)
+- [6502](https://github.com/mat-sz/6502)
+- [infiniplayer](https://github.com/mat-sz/infiniplayer)
+- [pongloader](https://github.com/mat-sz/pongloader)
+
 </details>
