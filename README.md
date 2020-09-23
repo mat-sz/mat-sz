@@ -6,7 +6,9 @@
 
 #### Who am I?
 
-I'm a full stack web developer and a UI/UX designer. I currently work with C# (.NET Core) and React in a Fortune 500 company - for personal projects I prefer node.js over .NET Core.
+I'm a full stack web developer and a UI/UX designer. I currently work with C# (.NET Core) and React (with TypeScript) in a Fortune 500 company - for personal projects I prefer node.js over .NET Core.
+
+Although most of my project utilize React and TypeScript, I still am able to work with vanilla JavaScript. TypeScript is a tool that saves me countless hours allowing to focus on development of new features instead of having to debug somewhat confusing JavaScript behavior.
 
 #### My work
 
