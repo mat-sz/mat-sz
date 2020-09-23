@@ -47,6 +47,7 @@ I'm a full stack web developer and a UI/UX designer. I currently work with C# (.
 - [inkball](https://github.com/mat-sz/inkball)
 - [tetris](https://github.com/mat-sz/tetris)
 - [flappy-bird](https://github.com/mat-sz/flappy-bird)
+- [2048](https://github.com/mat-sz/2048)
 
 </details>
 
