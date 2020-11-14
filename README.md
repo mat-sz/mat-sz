@@ -60,5 +60,6 @@ Although most of my project utilize React and TypeScript, I still am able to wor
 - [apple2](https://github.com/mat-sz/apple2)
 - [6502](https://github.com/mat-sz/6502)
 - [infiniplayer](https://github.com/mat-sz/infiniplayer)
+- [faces-in-randomness](https://github.com/mat-sz/faces-in-randomness)
 
 </details>
