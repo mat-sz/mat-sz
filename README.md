@@ -57,6 +57,7 @@ Although most of my project utilize React and TypeScript, I still am able to wor
   <summary>🚀 Experiments</summary>
 
 - [pongloader](https://github.com/mat-sz/pongloader) - Pong clone in less than 512 bytes (fits in a boot sector; x86 Assembly).
+- [bfloader](https://github.com/mat-sz/bfloader) - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) IDE/interpreter in less than 512 bytes (fits in a boot sector; x86 Assembly).
 - [apple2](https://github.com/mat-sz/apple2)
 - [6502](https://github.com/mat-sz/6502)
 - [infiniplayer](https://github.com/mat-sz/infiniplayer)
