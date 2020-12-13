@@ -1,7 +1,12 @@
 ### Hello! 👋
 
 <center>
-<a href="https://matsz.dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/home.svg" alt="Portfolio" /></a> <a href="https://linkedin.com/in/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/linkedin.svg" alt="LinkedIn" /></a> <a href="https://stackoverflow.com/users/12749378/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/stackoverflow.svg" alt="StackOverflow" /></a>  <a href="https://reddit.com/user/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/reddit.svg" alt="Reddit" /></a> <a href="mailto:contact@matsz.dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/mail.svg" alt="E-mail" /></a>
+<a href="https://matsz.dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/home.svg" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/12749378/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/stackoverflow.svg" alt="StackOverflow" /></a>
+<a href="https://reddit.com/user/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/reddit.svg" alt="Reddit" /></a>
+<a href="https://twitter.com/matsz_dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/twitter.svg" alt="Twitter" /></a>
+<a href="mailto:contact@matsz.dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/mail.svg" alt="E-mail" /></a>
 </center>
 
 #### Who am I?
