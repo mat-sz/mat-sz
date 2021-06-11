@@ -20,6 +20,8 @@ Although most of my project utilize React and TypeScript, I still am able to wor
 <details>
   <summary>🌐 Web applications</summary>
 
+- [Instaglitch](https://github.com/instaglitch/instaglitch) - Online image effects editor, based on WebGL.
+- [Instaglitch Studio](https://github.com/instaglitch/studio) - Online WebGL shader editor, optimized for image processing/effects.
 - filedrop ([frontend](https://github.com/mat-sz/filedrop-web), [backend](https://github.com/mat-sz/filedrop-ws)) - User-friendly WebRTC file transfer.
 - catchmail ([frontend](https://github.com/mat-sz/catchmail-web), [backend](https://github.com/mat-sz/catchmail-ws)) - Self-hosted e-mail debugging tool.
 </details>
@@ -38,12 +40,13 @@ Although most of my project utilize React and TypeScript, I still am able to wor
 <details>
   <summary>📚 TypeScript libraries</summary>
 
-- [tabcast](https://github.com/mat-sz/tabcast)
-- [upload](https://github.com/mat-sz/upload)
-- [imtool](https://github.com/mat-sz/imtool)
-- [fitool](https://github.com/mat-sz/fitool)
-- [typesocket](https://github.com/mat-sz/typesocket)
-- [media-api](https://github.com/mat-sz/media-api)
+- [fxGlue](https://github.com/mat-sz/fxGlue) - Originally developed for [Instaglitch](https://instaglitch.com), a WebGL library for development of image processing applications, provides a few common functions for shaders.
+- [tabcast](https://github.com/mat-sz/tabcast) - A simple library to send messages between tabs using storage events.
+- [upload](https://github.com/mat-sz/upload) - Minimalist TypeScript library for file uploads with progress events.
+- [imtool](https://github.com/mat-sz/imtool) - Compact canvas-based library for image processing.
+- [fitool](https://github.com/mat-sz/fitool) - TypeScript library for common file operations - downloads, conversions from/to ArrayBuffers, strings and data URLs.
+- [typesocket](https://github.com/mat-sz/typesocket) - Simple TypeScript library for WebSockets. Handles reconnections and provides a type interface (no type checking though).
+- [media-api](https://github.com/mat-sz/media-api) - Experimental library for accessing YouTube and SoundCloud data.
 
 </details>
 
