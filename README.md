@@ -41,6 +41,8 @@ Although most of my project utilize React and TypeScript, I still am able to wor
   <summary>📚 TypeScript libraries</summary>
 
 - [fxGlue](https://github.com/mat-sz/fxGlue) - Originally developed for [Instaglitch](https://instaglitch.com), a WebGL library for development of image processing applications, provides a few common functions for shaders.
+- [react-var-ui](https://github.com/mat-sz/react-var-ui) - Originally developed for [Instaglitch](https://instaglitch.com), a simple React UI library, similar to dat.gui but with more functionailty.
+- [react-use-pointer-drag](https://github.com/mat-sz/react-use-pointer-drag) - Originally developed for [react-var-ui](https://github.com/mat-sz/react-var-ui), a simple React hook for dragging elements around.
 - [tabcast](https://github.com/mat-sz/tabcast) - A simple library to send messages between tabs using storage events.
 - [upload](https://github.com/mat-sz/upload) - Minimalist TypeScript library for file uploads with progress events.
 - [imtool](https://github.com/mat-sz/imtool) - Compact canvas-based library for image processing.
