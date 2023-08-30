@@ -2,28 +2,40 @@
 
 <center>
 <a href="https://matsz.dev">
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/home.svg#gh-light-mode-only" alt="Portfolio" />
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/home.svg#gh-dark-mode-only" alt="Portfolio" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/home.svg">
+  <img alt="Portfolio" src="./icons-light-mode/home.svg">
+</picture>
 </a>
 <a href="https://linkedin.com/in/mat-sz">
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/linkedin.svg#gh-light-mode-only" alt="LinkedIn" />
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/linkedin.svg#gh-dark-mode-only" alt="LinkedIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/linkedin.svg">
+  <img alt="LinkedIn" src="./icons-light-mode/linkedin.svg">
+</picture>
 </a>
 <a href="https://stackoverflow.com/users/12749378/mat-sz">
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/stackoverflow.svg#gh-light-mode-only" alt="StackOverflow" />
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/stackoverflow.svg#gh-dark-mode-only" alt="StackOverflow" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/stackoverflow.svg">
+  <img alt="StackOverflow" src="./icons-light-mode/stackoverflow.svg">
+</picture>
 </a>
 <a href="https://reddit.com/user/mat-sz">
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/reddit.svg#gh-light-mode-only" alt="Reddit" />
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/reddit.svg#gh-dark-mode-only" alt="Reddit" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/reddit.svg">
+  <img alt="Reddit" src="./icons-light-mode/reddit.svg">
+</picture>
 </a>
 <a href="https://twitter.com/matsz_dev">
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/twitter.svg#gh-light-mode-only" alt="Twitter" />
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/twitter.svg#gh-dark-mode-only" alt="Twitter" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/twitter.svg">
+  <img alt="Twitter" src="./icons-light-mode/twitter.svg">
+</picture>
 </a>
 <a href="mailto:contact@mat.dev">
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/mail.svg#gh-light-mode-only" alt="E-mail" />
-<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/mail.svg#gh-dark-mode-only" alt="E-mail" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/mail.svg">
+  <img alt="E-mail me" src="./icons-light-mode/mail.svg">
+</picture>
 </a>
 </center>
 
