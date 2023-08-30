@@ -1,19 +1,39 @@
-### Hello! 👋
+### Hey there!
 
 <center>
-<a href="https://matsz.dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/home.svg" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/linkedin.svg" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/12749378/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/stackoverflow.svg" alt="StackOverflow" /></a>
-<a href="https://reddit.com/user/mat-sz"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/reddit.svg" alt="Reddit" /></a>
-<a href="https://twitter.com/matsz_dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/twitter.svg" alt="Twitter" /></a>
-<a href="mailto:contact@matsz.dev"><img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons/mail.svg" alt="E-mail" /></a>
+<a href="https://matsz.dev">
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/home.svg#gh-light-mode-only" alt="Portfolio" />
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/home.svg#gh-dark-mode-only" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/mat-sz">
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/linkedin.svg#gh-light-mode-only" alt="LinkedIn" />
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/linkedin.svg#gh-dark-mode-only" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/12749378/mat-sz">
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/stackoverflow.svg#gh-light-mode-only" alt="StackOverflow" />
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/stackoverflow.svg#gh-dark-mode-only" alt="StackOverflow" />
+</a>
+<a href="https://reddit.com/user/mat-sz">
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/reddit.svg#gh-light-mode-only" alt="Reddit" />
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/reddit.svg#gh-dark-mode-only" alt="Reddit" />
+</a>
+<a href="https://twitter.com/matsz_dev">
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/twitter.svg#gh-light-mode-only" alt="Twitter" />
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/twitter.svg#gh-dark-mode-only" alt="Twitter" />
+</a>
+<a href="mailto:contact@mat.dev">
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-light-mode/mail.svg#gh-light-mode-only" alt="E-mail" />
+<img src="https://raw.githubusercontent.com/mat-sz/mat-sz/master/icons-dark-mode/mail.svg#gh-dark-mode-only" alt="E-mail" />
+</a>
 </center>
 
 #### Who am I?
 
-I'm a full stack web developer and a UI/UX designer. I currently work with React.js (with TypeScript) as a Lead Architect at Huawei (since 2023). I also work with node.js (for the backend) for nearly all of my personal projects.
+I'm Mat. I'm a web developer, UI/UX designer and also a computer graphics enthusiast. I have over 7 years of commercial experience in web development.
 
-Although most of my project utilize React and TypeScript, I still am able to work with vanilla JavaScript. TypeScript is a tool that saves me countless hours allowing to focus on development of new features instead of having to debug somewhat confusing JavaScript behavior.
+I started programming when I was 9 years old. Technology has always been fascinating to me and it was cool to see the ways in which I could mold the technology to my liking.
+
+I got my first freelance job at just the age of 15 and since I turned 19, I've been working a full-time job as a web developer.
 
 #### My work
 
