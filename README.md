@@ -66,7 +66,7 @@ I got my first freelance job at just the age of 15 and since I turned 19, I've b
 - [lettercoder](https://github.com/mat-sz/lettercoder) - quoted-printable and MIME word decoder.
 - [react-letter](https://github.com/mat-sz/react-letter) - React e-mail presentation component (with an allowlist for tags, attributes and CSS properties supported by Gmail).
 - [vue-letter](https://github.com/mat-sz/vue-letter) - Vue e-mail presentation component (based on react-letter)
-- [microMTA](https://github.com/mat-sz/microMTA) - Inbound SMTP server.
+- [@typemail/smtp](https://github.com/typemail/smtp) - SMTP client/server library.
 </details>
 
 <details>
