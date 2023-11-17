@@ -1,7 +1,7 @@
 ### Hey there!
 
 <center>
-<a href="https://matsz.dev">
+<a href="https://mat.dev">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./icons-dark-mode/home.svg">
   <img alt="Portfolio" src="./icons-light-mode/home.svg">
